@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Navbar from '../component/Navbar';
+import Navbar from '../component/Navbar.css';
 import Footer from '../component/Footer';
 import '../style/home.css'
 import { useCompraContext } from '../hooks/useCompraContext';
