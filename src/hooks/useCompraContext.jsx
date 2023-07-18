@@ -1,7 +1,7 @@
 // utilizada para acessar o valor de um contexto
 import { useContext } from 'react';
 // permite que o hook acesse esse contexto
-import { CompraContext } from '../context/compraProvider';
+import { CompraContext } from '../context/CompraProvider';
 
 // hook personalizado que é usado para acessar o valor do contexto CompraContext.
 export function useCompraContext() {

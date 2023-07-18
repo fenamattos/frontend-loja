@@ -3,7 +3,7 @@ import Home from './Views/Home';
 import Produtos from './Views/Produtos'
 import Pedido from './Views/Pedido'
 import './style/app.css';
-import { CompraProvider } from './context/compraProvider';
+import { CompraProvider } from './context/CompraProvider';
 
 // Define um componente de função chamado App
 function App() {

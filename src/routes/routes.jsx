@@ -5,7 +5,7 @@ import Produtos from '../Views/Produtos';
 import Pedido from '../Views/Pedido';
 import AdminPanel from '../Views/Pages';
 import App from '../App';
-import { CompraProvider } from '../context/compraProvider';
+import { CompraProvider } from '../context/CompraProvider';
 
 function AppRoutes() {
   return (
