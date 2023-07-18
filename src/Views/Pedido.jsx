@@ -1,6 +1,6 @@
 import React from 'react';
 import { useState } from 'react';
-import Navbar from '../component/Navbar.css';
+import Navbar from '../component/Navbar';
 import Footer from '../component/Footer';
 import '../style/pedido.css'
 import api from '../../api';
